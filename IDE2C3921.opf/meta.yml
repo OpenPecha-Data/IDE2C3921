@@ -1,0 +1,36 @@
+id: IDE2C3921
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:13:25.585408'
+last_modified: '2022-06-19T04:13:25.585422'
+parser: null
+source_metadata:
+  title: A mes zhabss History of the bKa gdams pa Sect
+  author: འཇམ་མགོན་ཨ་མེས་ཞབས།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-05-20);
+    converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:བསམ་གྲུབ། (Dharamsala) (sdr), Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:བསམ་གྲུབ།
+  text_witnesses: https://sakyaresearch.org/sources/3093
+  bases:
+    476e:
+      title: A mes zhabss History of the bKa gdams pa Sect
+      order: 1
+      base_file: 476e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
